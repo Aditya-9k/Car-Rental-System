@@ -1,4 +1,4 @@
-#Car Retail System:
+#Car Rental System:
 
 Features
   Add New Cars: Add detailed information about new cars, including name, brand, license plate number, rent price per day, cost price, and color.
