@@ -71,4 +71,3 @@ Methods:
 Main Class
   This class contains the main method to run the application, providing a user interface to interact with the system. It displays a menu of available options for managing cars and customers and handles user inputs to perform various operations.
 
-  Author-Aditya Katariya
